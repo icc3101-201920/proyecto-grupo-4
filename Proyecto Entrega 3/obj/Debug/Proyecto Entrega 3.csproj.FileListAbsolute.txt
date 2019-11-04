@@ -1,0 +1,57 @@
+C:\Users\crist\source\repos\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.csprojAssemblyReference.cache
+C:\Users\crist\source\repos\Proyecto Entrega 3\obj\Debug\Proyecto_Entrega_3.Form1.resources
+C:\Users\crist\source\repos\Proyecto Entrega 3\obj\Debug\Proyecto_Entrega_3.Properties.Resources.resources
+C:\Users\crist\source\repos\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\Proyecto Entrega 3\bin\Debug\Proyecto Entrega 3.exe.config
+C:\Users\crist\source\repos\Proyecto Entrega 3\bin\Debug\Proyecto Entrega 3.exe
+C:\Users\crist\source\repos\Proyecto Entrega 3\bin\Debug\Proyecto Entrega 3.pdb
+C:\Users\crist\source\repos\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.exe
+C:\Users\crist\source\repos\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.pdb
+C:\Users\raila\Desktop\Proyecto Entrega 3\bin\Debug\Proyecto Entrega 3.exe.config
+C:\Users\raila\Desktop\Proyecto Entrega 3\bin\Debug\Proyecto Entrega 3.exe
+C:\Users\raila\Desktop\Proyecto Entrega 3\bin\Debug\Proyecto Entrega 3.pdb
+C:\Users\raila\Desktop\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.csprojAssemblyReference.cache
+C:\Users\raila\Desktop\Proyecto Entrega 3\obj\Debug\Proyecto_Entrega_3.Form1.resources
+C:\Users\raila\Desktop\Proyecto Entrega 3\obj\Debug\Proyecto_Entrega_3.Properties.Resources.resources
+C:\Users\raila\Desktop\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.csproj.GenerateResource.cache
+C:\Users\raila\Desktop\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.csproj.CoreCompileInputs.cache
+C:\Users\raila\Desktop\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.exe
+C:\Users\raila\Desktop\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.pdb
+C:\Users\crist\Desktop\Proyecto Entrega 3\Proyecto Entrega 3\bin\Debug\Proyecto Entrega 3.exe.config
+C:\Users\crist\Desktop\Proyecto Entrega 3\Proyecto Entrega 3\bin\Debug\Proyecto Entrega 3.exe
+C:\Users\crist\Desktop\Proyecto Entrega 3\Proyecto Entrega 3\bin\Debug\Proyecto Entrega 3.pdb
+C:\Users\crist\Desktop\Proyecto Entrega 3\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.csprojAssemblyReference.cache
+C:\Users\crist\Desktop\Proyecto Entrega 3\Proyecto Entrega 3\obj\Debug\Proyecto_Entrega_3.Form1.resources
+C:\Users\crist\Desktop\Proyecto Entrega 3\Proyecto Entrega 3\obj\Debug\Proyecto_Entrega_3.Properties.Resources.resources
+C:\Users\crist\Desktop\Proyecto Entrega 3\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.csproj.GenerateResource.cache
+C:\Users\crist\Desktop\Proyecto Entrega 3\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\Proyecto Entrega 3\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.exe
+C:\Users\crist\Desktop\Proyecto Entrega 3\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.pdb
+C:\Users\raila\Desktop\Proyecto\Proyecto Entrega 3\bin\Debug\Proyecto Entrega 3.exe.config
+C:\Users\raila\Desktop\Proyecto\Proyecto Entrega 3\bin\Debug\Proyecto Entrega 3.exe
+C:\Users\raila\Desktop\Proyecto\Proyecto Entrega 3\bin\Debug\Proyecto Entrega 3.pdb
+C:\Users\raila\Desktop\Proyecto\Proyecto Entrega 3\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\raila\Desktop\Proyecto\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.csprojAssemblyReference.cache
+C:\Users\raila\Desktop\Proyecto\Proyecto Entrega 3\obj\Debug\Proyecto_Entrega_3.Form1.resources
+C:\Users\raila\Desktop\Proyecto\Proyecto Entrega 3\obj\Debug\Proyecto_Entrega_3.FotoApp.resources
+C:\Users\raila\Desktop\Proyecto\Proyecto Entrega 3\obj\Debug\Proyecto_Entrega_3.Properties.Resources.resources
+C:\Users\raila\Desktop\Proyecto\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.csproj.GenerateResource.cache
+C:\Users\raila\Desktop\Proyecto\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.csproj.CoreCompileInputs.cache
+C:\Users\raila\Desktop\Proyecto\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.csproj.CopyComplete
+C:\Users\raila\Desktop\Proyecto\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.exe
+C:\Users\raila\Desktop\Proyecto\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.pdb
+C:\Users\raila\Downloads\Proyecto\Proyecto Entrega 3\bin\Debug\Proyecto Entrega 3.exe.config
+C:\Users\raila\Downloads\Proyecto\Proyecto Entrega 3\bin\Debug\Proyecto Entrega 3.exe
+C:\Users\raila\Downloads\Proyecto\Proyecto Entrega 3\bin\Debug\Proyecto Entrega 3.pdb
+C:\Users\raila\Downloads\Proyecto\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.csprojAssemblyReference.cache
+C:\Users\raila\Downloads\Proyecto\Proyecto Entrega 3\obj\Debug\Proyecto_Entrega_3.Form1.resources
+C:\Users\raila\Downloads\Proyecto\Proyecto Entrega 3\obj\Debug\Proyecto_Entrega_3.FotoApp.resources
+C:\Users\raila\Downloads\Proyecto\Proyecto Entrega 3\obj\Debug\Proyecto_Entrega_3.FotoApp2.resources
+C:\Users\raila\Downloads\Proyecto\Proyecto Entrega 3\obj\Debug\Proyecto_Entrega_3.Properties.Resources.resources
+C:\Users\raila\Downloads\Proyecto\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.csproj.GenerateResource.cache
+C:\Users\raila\Downloads\Proyecto\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.csproj.CoreCompileInputs.cache
+C:\Users\raila\Downloads\Proyecto\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.csproj.CopyComplete
+C:\Users\raila\Downloads\Proyecto\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.exe
+C:\Users\raila\Downloads\Proyecto\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.pdb
+C:\Users\raila\Desktop\Proyecto\Proyecto Entrega 3\obj\Debug\Proyecto_Entrega_3.Functionalities.Form1.resources
