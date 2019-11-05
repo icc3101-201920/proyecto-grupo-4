@@ -110,12 +110,12 @@ namespace Proyecto_Entrega_3
         {
 
             List<string> SLP = new List<string>();
-            SLP.Add($"Location:{ location}. ");
-            SLP.Add($"Photographer: { photographer }. ");
-            SLP.Add($"Adress: { adress }. ");
-            SLP.Add($"Saturation: { saturation }. ");
-            SLP.Add($"Resolution: { resolution }. ");
-            SLP.Add($"Aspect Ratio: { aspectRatio }. ");
+            SLP.Add($"Location:{ location} ");
+            SLP.Add($"Photographer: { photographer } ");
+            SLP.Add($"Adress: { adress } ");
+            SLP.Add($"Saturation: { saturation } ");
+            SLP.Add($"Resolution: { resolution } ");
+            SLP.Add($"Aspect Ratio: { aspectRatio }.");
 
             string personas = "People: ";
             foreach (Person P in persons)
@@ -126,7 +126,7 @@ namespace Proyecto_Entrega_3
             personas += " ";
             SLP.Add(personas);
 
-            string lbl = "";
+            string lbl = "Labels: ";
             foreach (Label i in label)
             {
                 lbl += i.Name + ", ";

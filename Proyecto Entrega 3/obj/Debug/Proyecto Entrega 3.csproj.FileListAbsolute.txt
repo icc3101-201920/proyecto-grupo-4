@@ -55,3 +55,16 @@ C:\Users\raila\Downloads\Proyecto\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 
 C:\Users\raila\Downloads\Proyecto\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.exe
 C:\Users\raila\Downloads\Proyecto\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.pdb
 C:\Users\raila\Desktop\Proyecto\Proyecto Entrega 3\obj\Debug\Proyecto_Entrega_3.Functionalities.Form1.resources
+C:\Users\crist\Source\Repos\proyecto-grupo-4\Proyecto Entrega 3\bin\Debug\Proyecto Entrega 3.exe.config
+C:\Users\crist\Source\Repos\proyecto-grupo-4\Proyecto Entrega 3\bin\Debug\Proyecto Entrega 3.exe
+C:\Users\crist\Source\Repos\proyecto-grupo-4\Proyecto Entrega 3\bin\Debug\Proyecto Entrega 3.pdb
+C:\Users\crist\Source\Repos\proyecto-grupo-4\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.csprojAssemblyReference.cache
+C:\Users\crist\Source\Repos\proyecto-grupo-4\Proyecto Entrega 3\obj\Debug\Proyecto_Entrega_3.Form1.resources
+C:\Users\crist\Source\Repos\proyecto-grupo-4\Proyecto Entrega 3\obj\Debug\Proyecto_Entrega_3.FotoApp.resources
+C:\Users\crist\Source\Repos\proyecto-grupo-4\Proyecto Entrega 3\obj\Debug\Proyecto_Entrega_3.Functionalities.Form1.resources
+C:\Users\crist\Source\Repos\proyecto-grupo-4\Proyecto Entrega 3\obj\Debug\Proyecto_Entrega_3.Properties.Resources.resources
+C:\Users\crist\Source\Repos\proyecto-grupo-4\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.csproj.GenerateResource.cache
+C:\Users\crist\Source\Repos\proyecto-grupo-4\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.csproj.CoreCompileInputs.cache
+C:\Users\crist\Source\Repos\proyecto-grupo-4\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.csproj.CopyComplete
+C:\Users\crist\Source\Repos\proyecto-grupo-4\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.exe
+C:\Users\crist\Source\Repos\proyecto-grupo-4\Proyecto Entrega 3\obj\Debug\Proyecto Entrega 3.pdb

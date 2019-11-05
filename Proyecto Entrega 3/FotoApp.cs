@@ -184,10 +184,11 @@ namespace Proyecto_Entrega_3
             foreach (string name in StaticPicture.ShowPersonListPic())
             {
                 PicturePeopleListBox.Items.Add(name);
+
             }
 
             TagPeopleListBox.Items.Clear();
-            foreach (string name in StaticPicture.ShowPersonListPic())
+            foreach (string name in StaticAlbum.ShowPeopleNames())
             {
                 TagPeopleListBox.Items.Add(name);
             }
@@ -1061,16 +1062,10 @@ namespace Proyecto_Entrega_3
 
             //-----EDIT FEATURES TOPMENU EVENTS-----//
         private void BtnCreate_Click(object sender, EventArgs e)
-        {
-            try
-            {
-                UpdateListBox();
-                UpdateListBoxFeatures();
-            }
-            catch (NullReferenceException)
-            {
-
-            }
+        {            
+            UpdateListBox();
+            UpdateListBoxFeatures();
+           
             CreatePanel.Visible = true;
             LabelsPanel.Visible = false;
             PicturePanel.Visible = false;
@@ -1079,16 +1074,9 @@ namespace Proyecto_Entrega_3
 
         private void BtnLabels_Click(object sender, EventArgs e)
         {
-            
-            try
-            {
-                UpdateListBox();
-                UpdateListBoxFeatures();
-            }
-            catch (NullReferenceException)
-            {
-
-            }
+            UpdateListBox();
+            UpdateListBoxFeatures();
+         
             CreatePanel.Visible = false;
             LabelsPanel.Visible = true;
             PicturePanel.Visible = false;
@@ -1097,15 +1085,9 @@ namespace Proyecto_Entrega_3
 
         private void BtnPicture_Click(object sender, EventArgs e)
         {
-            try
-            {
-                UpdateListBox();
-                UpdateListBoxFeatures();
-            }
-            catch (NullReferenceException)
-            {
-
-            }
+            UpdateListBox();
+            UpdateListBoxFeatures();
+           
             CreatePanel.Visible = false;
             LabelsPanel.Visible = false;
             PicturePanel.Visible = true;
@@ -1114,15 +1096,10 @@ namespace Proyecto_Entrega_3
 
         private void BtnTag_Click(object sender, EventArgs e)
         {
-            try
-            {
-                UpdateListBox();
-                UpdateListBoxFeatures();
-            }
-            catch (NullReferenceException)
-            {
-
-            }
+            UpdatePeopoleListBox();            
+            UpdateListBox();
+            UpdateListBoxFeatures();
+           
             CreatePanel.Visible = false;
             LabelsPanel.Visible = false;
             PicturePanel.Visible = false;
@@ -1158,15 +1135,8 @@ namespace Proyecto_Entrega_3
             Person p = new Person(textBoxNameNewPerson.Text, sex);
             p.DateOfBirth = dateTimePicker1.Value;
             StaticAlbum.AddNewPerson(p);
-            lblPersoninfo3.Text = p.GetPersonInfo();
-            try
-            {
-                UpdateListBoxFeatures();
-            }
-            catch (NullReferenceException)
-            {
-
-            }
+            lblPersoninfo3.Text = p.GetPersonInfo();           
+            UpdateListBoxFeatures();
             UpdatePeopoleListBox();
         }
             //-----EDIT FEATURES LABELS EVENTS-----//
@@ -1421,8 +1391,21 @@ namespace Proyecto_Entrega_3
                 MessageBox.Show("No picture loaded");
             }
         }
-
+        // no sacar o va a quedar la caga
         private void PbShowPictures_Click(object sender, EventArgs e)
+        {
+            MouseEventArgs me = (MouseEventArgs)e;
+            Point coordinates = me.Location;
+            lblXCoordenadas.Text = coordinates.X.ToString();
+            lblYCoordenadas.Text = coordinates.Y.ToString();
+        }
+        // no sacar o va a quedar la caga
+        private void LayoutPanelCenter_Paint(object sender, PaintEventArgs e)
+        {
+           
+        }
+
+        private void LayoutPanelCenter_Click(object sender, EventArgs e)
         {
             MouseEventArgs me = (MouseEventArgs)e;
             Point coordinates = me.Location;
